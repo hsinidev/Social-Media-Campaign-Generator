@@ -1,0 +1,5 @@
+{
+  "name": "Social Media Campaign Generator",
+  "description": "An AI-powered application that generates tailored social media content across multiple platforms based on user-defined product descriptions and brand voice.",
+  "requestFramePermissions": []
+}
