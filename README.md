@@ -6,7 +6,7 @@
 [![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
 ## 🌟 Live Demo
-[**Launch Social Media Campaign Generator**](https://doodax.com) 🚀
+[**Launch Social Media Campaign Generator**](https://doodax.com/tools/social-media-campaign-generator/index.html) 🚀
 
 ## 📖 Description
 
